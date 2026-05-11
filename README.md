@@ -13,7 +13,6 @@ BioVeritas bridges a Next.js frontend with a Truffle-deployed Solidity backend:
 ### Prerequisites
 * Node.js (v18+)
 * Ganache (running on `127.0.0.1:7545`)
-* MetaMask Browser Extension
 
 ### 1. Deploy Smart Contracts
 ```bash
