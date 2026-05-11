@@ -19,3 +19,7 @@ BioVeritas bridges a Next.js frontend with a Truffle-deployed Solidity backend:
 cd blockchain
 npm install
 truffle migrate --network development
+
+## 🎥 Application Demo
+
+https://github.com/user-attachments/assets/d5443501-fd86-44d9-8661-d46c3b334a07
