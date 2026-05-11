@@ -2,6 +2,10 @@
 
 A decentralized, Zero-Knowledge Proof (ZKP) enabled clinical trial management platform ensuring HIPAA-compliant patient identity verification and immutable vital tracking.
 
+## 🎥 Application Demo
+
+https://github.com/user-attachments/assets/d5443501-fd86-44d9-8661-d46c3b334a07
+
 ## 🔬 System Architecture
 BioVeritas bridges a Next.js frontend with a Truffle-deployed Solidity backend:
 * **Smart Contracts:** Deployed on local Ganache environments, managing RBAC (Role-Based Access Control) for Admins, Investigators, and Patients.
@@ -19,7 +23,3 @@ BioVeritas bridges a Next.js frontend with a Truffle-deployed Solidity backend:
 cd blockchain
 npm install
 truffle migrate --network development
-
-## 🎥 Application Demo
-
-https://github.com/user-attachments/assets/d5443501-fd86-44d9-8661-d46c3b334a07
